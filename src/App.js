@@ -5,7 +5,7 @@ const bannerCardsList = [
   {
     id: 1,
     headerText: 'The Seasons Latest',
-    description: "Get the season's latest designs in a flick of your hand",
+    description: "Get the seasons latest designs in a flick of your hand",
     className: 'card-1',
   },
   {
@@ -19,7 +19,7 @@ const bannerCardsList = [
     id: 3,
     headerText: 'Insiders',
     description:
-      'Get the top-class products for yourself with an extra discount',
+      'Get the top class products for yourself with an extra off',
     className: 'card-3',
   },
 ]
